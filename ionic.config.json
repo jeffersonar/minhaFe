@@ -1,0 +1,7 @@
+{
+  "name": "minhaFe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
